@@ -1,0 +1,61 @@
+body{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    font: italic small-caps bold 12px/30px Georgia, serif;
+}
+.structural{
+    margin: 10px;
+    padding: 10px;
+}
+h1{
+    color: blue;
+    font-size: large;
+}
+h2{
+    color: rgb(8, 91, 168);
+    font-size: medium;
+}
+main{
+    height: 70vh;
+}
+.image{
+    border: 5px solid darkblue;
+    width: 90%;
+    height: 80%;
+}
+figure{
+    background-color: lightslategray;
+    width: 45%;
+    height: 60%;
+    margin: auto;
+    padding: 10px;
+    float: left;
+}
+
+section{
+    clear: both;
+}
+figcaption{
+    font-weight: 100;
+    font-size: small;
+    color: navy;
+    padding: 5px;
+}
+a{
+    color: rgb(47, 165, 255)
+}
+a:hover{
+    color: green;
+}
+ul{
+    list-style-type: circle;
+    line-height: 3em;
+}
+header{
+    background-color: skyblue;
+}
+footer{
+    background-color: skyblue;
+}
+
